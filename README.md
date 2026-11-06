@@ -1,5 +1,3 @@
-![MezaCall](assets/cover.svg)
-
 # MezaCall
 
 A cloud telephony platform bringing browser-based calling, team workflows and call supervision into one workspace. Agent, supervisor and administrator experiences are organized by role and company.
